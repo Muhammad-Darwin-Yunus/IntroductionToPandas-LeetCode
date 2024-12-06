@@ -6,4 +6,5 @@ The Introduction to Pandas test contains 3 levels, namely Easy, Medium, and Hard
 
 | Title | Level | Solution |
 |:-----:|:----------:|:--------:|
-|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)|Easy|[Link](https://github.com/Muhammad-Darwin-Yunus/SQL50-LeetCode/blob/main/Code%20SQL/Recyclable%20and%20Low%20Fat%20Products)
+|[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)|Easy|[Link](https://github.com/Muhammad-Darwin-Yunus/IntroductionToPandas-LeetCode/blob/main/Code%20Pandas%20Python/Create%20a%20DataFrame%20from%20List)
+|[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)|Easy|[Link](https://github.com/Muhammad-Darwin-Yunus/IntroductionToPandas-LeetCode/blob/main/Code%20Pandas%20Python/Get%20the%20Size%20of%20a%20DataFrame)
